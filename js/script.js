@@ -88,6 +88,14 @@
                 });
               });
 
+            $(document).ready(function(){
+              $('.nad8').mouseover(function () {
+                    $('.muli8').show();
+                }).mouseout(function () {
+                    $('.muli8').hide();
+                });
+              });
+
      function contact(form){
         var name = document.forms["form2"]["name"].value;
             var email = document.forms["form2"]["email"].value;
