@@ -41,7 +41,7 @@ text-align: center;
 
 
 }
-/* .f{
+f{
     background-image: url('file:///home/moringa/Documents/Delani-Studio/assets/backgrounds/c_image.jpg');
     background-size: cover;
     height:500px;
@@ -61,8 +61,8 @@ textarea {
     margin-bottom: 16px; /* Bottom margin */
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
    }
-   #jambo ::placeholder {
-    color: white; */ */ */
+   /* #jambo ::placeholder {
+    color: white; */ */ */ */
    /* }
    #jambo input{
     color: white;
