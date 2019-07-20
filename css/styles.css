@@ -1,4 +1,4 @@
-/* .a{
+ .a{
     background-image: url('file:///home/moringa/Documents/Delani-Studio/assets/backgrounds/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ text-align: center;
     text-align: center;
     
 }
-.c{
+/* .c{
     background-image: url('file:///home/moringa/Documents/Delani-Studio/assets/backgrounds/s_image.jpg');
     background-size: cover;
     height: 250px;
@@ -62,7 +62,7 @@ textarea {
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
    }
    #jambo ::placeholder {
-    color: white; */
+    color: white; */ */
    /* }
    #jambo input{
     color: white;
