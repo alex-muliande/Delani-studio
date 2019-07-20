@@ -71,9 +71,26 @@
               });
             });
 
+            $(document).ready(function(){
+              $('.nad6').mouseover(function () {
+                    $('.muli6').show();
+                }).mouseout(function () {
+                    $('.muli6').hide();
+                });
+              });
+
+
+            $(document).ready(function(){
+              $('.nad7').mouseover(function () {
+                    $('.muli7').show();
+                }).mouseout(function () {
+                    $('.muli7').hide();
+                });
+              });
+
      function contact(form){
         var name = document.forms["form2"]["name"].value;
             var email = document.forms["form2"]["email"].value;
             var message = document.forms["form2"]["message"].value;
-            alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
+            alert("Hello! " + name + "," + " We have received your message. Thank you for reaching out to us. ");
               };
