@@ -15,7 +15,7 @@ h1{
     padding-top: 60px;
 }
 .a img:last-child{
-    padding: 170px;
+    padding: 170px;+
 }
 h2{
 text-align: center;
@@ -51,10 +51,10 @@ text-align: center;
 }
 textarea {
     width: 100%; /* Full width */
-    height: 200px;
+    /* height: 200px;
     color: white;
-    padding: 12px; /* Some padding */
-    border: 1px solid #ccc; /* Gray border */
+    /* padding: 12px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; /* Make sure that padding and width stays in place */
     margin-top: 6px; /* Add a top margin */
@@ -62,8 +62,8 @@ textarea {
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
    }
    #jambo ::placeholder {
-    color: white;
-   }
+    color: white; */
+   /* }
    #jambo input{
     color: white;
     background-color: transparent;
@@ -73,4 +73,4 @@ textarea {
    }
    p{
        display: none;
-   } */
+    } */
