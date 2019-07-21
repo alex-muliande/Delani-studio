@@ -21,11 +21,11 @@
       })
   
       $("#prod-pic").click(function(){
-         $(".prod-a").toggle();
-         $("#prod-pic").toggle();
+         $(".prod-a").hide(1500).toggle();
+         $("#prod-pic").slideUp();
        });
       $(".prod-a").click(function(){
-       $("#prod-pic").show();
+       $("#prod-pic").slideDown();
        $(".prod-a").hide();
      })
     
