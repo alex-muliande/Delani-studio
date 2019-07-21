@@ -22,5 +22,5 @@ I have encountered a bug with the API which is not working but is something that
 >>>>>**_JavaScript_**
 
 ## Support and controls 
-incase of anything or any questions reach out to me for verifications@alexnad425@gmail.com
+incase of anything or any questions reach out to me for verifications@ alexnad425@gmail.com
 
