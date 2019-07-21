@@ -1,5 +1,5 @@
 # DELANI STUDIO
-##Description
+## Description
 A week three project emphasizing on an exercise to test the use of javaScript and jQuery functionalities.
 
 ## Setup
