@@ -1,3 +1,6 @@
+ body{
+    font-family: 'Arima Madurai', cursive;
+ }
  .a{
     background-image: url('../img/h_img.jpg');
     background-size: cover;
