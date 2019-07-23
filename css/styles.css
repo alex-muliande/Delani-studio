@@ -10,7 +10,9 @@
     text-align: center;
     padding:200px; 
     color: white;
-
+}
+p{
+    text-align: center;
 }
 h1{
     color: white;
@@ -37,6 +39,7 @@ text-align: center;
 } 
 .d{
     text-align: center;
+    height: 250px;
 }
 .col-space{
     margin-top:20px;
@@ -77,118 +80,105 @@ textarea {
    .design-a,.develop-a,.prod-a{
        display: none;
 }
-.muli{
-width: 250px;
-height: 200px;
+.project{
+width: 320px;
+height: 270px;
 background-color:white;
 z-index: 1;
 opacity: 0.2;
-border-radius: 15px;
 position: absolute;
-top: 2em;
-left: 3em;
+top: 0.0em;
 display:none;
 color:black;
 font-size: 20px;
 }
-.muli2{
-    width: 250px;
-    height: 200px;
+.project2{
+    width: 320px;
+    height: 270px;
     background-color:white;
     z-index: 1;
-    opacity: 0.5;
-    border-radius: 15px;
+    opacity: 0.6;
     position: absolute;
-    top: 2em;
-    left: 3em;
+    top: 0.0em;
     display:none;
-    color:rgba(105, 63, 124, 0.877);
+    color:black;
     font-size: 20px;
 }
-.muli3{
-    width: 250px;
-    height: 200px;
+.project3{
+    width: 320px;
+    height: 270px;
     background-color:white;
     z-index: 1;
     opacity: 0.5;
-    border-radius: 15px;
     position: absolute;
-    top: 2em;
-    left: 3em;
+    top: 0.0em;
     display:none;
     color:black;
     font-size: 20px;
     }
-    .muli4{
-        width: 250px;
-        height: 200px;
-        background-color:white;
-        z-index: 1;
-        opacity: 0.5;
-        border-radius: 15px;
-        position: absolute;
-        top: 2em;
-        left: 3em;
-        display:none;
-        color:black;
-        font-size: 20px;
-        }
-        .muli5{
-            width: 250px;
-            height: 200px;
-            background-color:white;
-            z-index: 1;
-            opacity: 0.5;
-            border-radius: 15px;
-            position: absolute;
-            top: 2em;
-            left: 3em;
-            display:none;
-            color:black;
-            font-size: 20px;
-            }
-            .muli6{
-                width: 250px;
-                height: 200px;
-                background-color:white;
-                z-index: 1;
-                opacity: 0.5;
-                border-radius: 15px;
-                position: absolute;
-                top: 2em;
-                left: 3em;
-                display:none;
-                color:black;
-                font-size: 20px;
-                }
-                .muli7{
-                    width: 250px;
-                    height: 200px;
-                    background-color:white;
-                    z-index: 1;
-                    opacity: 0.5;
-                    border-radius: 15px;
-                    position: absolute;
-                    top: 2em;
-                    left: 3em;
-                    display:none;
-                    color:black;
-                    font-size: 20px;
-                    }
-                    .muli8{
-                        width: 250px;
-                        height: 200px;
-                        background-color:white;
-                        z-index: 1;
-                        opacity: 0.5;
-                        border-radius: 15px;
-                        position: absolute;
-                        top: 2em;
-                        left: 3em;
-                        display:none;
-                        color:black;
-                        font-size: 20px;
-                        }
-                        .foot{
-                            text-align: center;
-                        }
+ .project4{
+    width: 320px;
+    height: 270px;
+    background-color:white;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color:black;
+    font-size: 20px;
+    }
+    .project5{
+    width: 320px;
+    height: 270px;
+    background-color:white;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color:black;
+    font-size: 20px;
+    }
+    .project6{
+     width: 320px;
+    height: 270px;
+    background-color:white;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color:black;
+    font-size: 20px;
+    }
+    .project7{
+    width: 320px;
+    height: 270px;
+    background-color:white;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color:black;
+    font-size: 20px;
+    }
+    .project8{
+    width: 320px;
+    height: 270px;
+    background-color:white;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color:black;
+    font-size: 20px;
+    }
+    .foot{
+    text-align: center;
+    }
+    #p1 {
+    margin-top: 30%;
+    }

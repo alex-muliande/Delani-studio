@@ -15,11 +15,11 @@ The file is made most precisely with HTML and CSS making it easy to be viewed in
 I have encountered a bug with the API which is not working but is something that I am working on.
 
 ## Tech used 
->**_HTML_**
->>**_CSS_**
->>>**_Bootstrap_**
->>>>**_jQuery_**
->>>>>**_JavaScript_**
+>*_HTML_
+>>*_CSS_
+>>>*_Bootstrap_
+>>>>*_jQuery_
+>>>>>*_JavaScript_
 
 ## Support and controls 
 incase of anything or any questions reach out to me for verifications@ alexnad425@gmail.com
