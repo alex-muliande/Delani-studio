@@ -33,66 +33,66 @@
 
      $(document).ready(function(){
       $('.nad').mouseover(function () {
-            $('.muli').show();
+            $('.project').show();
         }).mouseout(function () {
-            $('.muli').hide();
+            $('.project').hide();
         });
       });
 
      $(document).ready(function(){
       $('.nad2').mouseover(function () {
-            $('.muli2').show();
+            $('.project2').show();
         }).mouseout(function () {
-            $('.muli2').hide();
+            $('.project2').hide();
         });
       });
 
       $(document).ready(function(){
         $('.nad3').mouseover(function () {
-              $('.muli3').show();
+              $('.project3').show();
           }).mouseout(function () {
-              $('.muli3').hide();
+              $('.project3').hide();
           });
         });
         
         $(document).ready(function(){
           $('.nad4').mouseover(function () {
-                $('.muli4').show();
+                $('.project4').show();
             }).mouseout(function () {
-                $('.muli4').hide();
+                $('.project4').hide();
             });
           });
 
           $(document).ready(function(){
             $('.nad5').mouseover(function () {
-                  $('.muli5').show();
+                  $('.project5').show();
               }).mouseout(function () {
-                  $('.muli5').hide();
+                  $('.project5').hide();
               });
             });
 
             $(document).ready(function(){
               $('.nad6').mouseover(function () {
-                    $('.muli6').show();
+                    $('.project6').show();
                 }).mouseout(function () {
-                    $('.muli6').hide();
+                    $('.project6').hide();
                 });
               });
 
 
             $(document).ready(function(){
               $('.nad7').mouseover(function () {
-                    $('.muli7').show();
+                    $('.project7').show();
                 }).mouseout(function () {
-                    $('.muli7').hide();
+                    $('.project7').hide();
                 });
               });
 
             $(document).ready(function(){
               $('.nad8').mouseover(function () {
-                    $('.muli8').show();
+                    $('.project8').show();
                 }).mouseout(function () {
-                    $('.muli8').hide();
+                    $('.project8').hide();
                 });
               });
 
